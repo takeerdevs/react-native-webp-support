@@ -2,6 +2,7 @@
   "name": "react-native-webp-support",
   "version": "0.4.0",
   "keywords": ["react-native", "webp"],
+  "homepage": "https://github.com/takeerdevs/react-native-webp-support#readme",
   "bugs": {
     "url": "https://github.com/TGPSI/react-native-webp-support/issues"
   },
